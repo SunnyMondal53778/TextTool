@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/a160e184-1d8e-404f-847c-b2818ece6da3)
-
+![TextTool](https://github.com/user-attachments/assets/098659c5-32f8-44ec-b03f-1c49ab605f9f)
 # TextTool: A Utility App for Text Conversion, Formatting, and Analysis
 TextTool is a simple yet powerful utility app designed to help users manipulate and analyze text with ease.
 
