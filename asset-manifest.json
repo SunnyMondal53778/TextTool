@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/textutils/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/textutils/static/js/main.51db0d9b.chunk.js",
-    "main.js.map": "/textutils/static/js/main.51db0d9b.chunk.js.map",
-    "runtime-main.js": "/textutils/static/js/runtime-main.e9897f2a.js",
-    "runtime-main.js.map": "/textutils/static/js/runtime-main.e9897f2a.js.map",
-    "static/js/2.7a26bdad.chunk.js": "/textutils/static/js/2.7a26bdad.chunk.js",
-    "static/js/2.7a26bdad.chunk.js.map": "/textutils/static/js/2.7a26bdad.chunk.js.map",
-    "static/js/3.46016998.chunk.js": "/textutils/static/js/3.46016998.chunk.js",
-    "static/js/3.46016998.chunk.js.map": "/textutils/static/js/3.46016998.chunk.js.map",
-    "index.html": "/textutils/index.html",
-    "static/css/main.ea1455b2.chunk.css.map": "/textutils/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.7a26bdad.chunk.js.LICENSE.txt": "/textutils/static/js/2.7a26bdad.chunk.js.LICENSE.txt"
+    "main.css": "/TextTool/static/css/main.7c34d7bc.css",
+    "main.js": "/TextTool/static/js/main.cdf57f43.js",
+    "static/js/453.77995bdc.chunk.js": "/TextTool/static/js/453.77995bdc.chunk.js",
+    "index.html": "/TextTool/index.html",
+    "main.7c34d7bc.css.map": "/TextTool/static/css/main.7c34d7bc.css.map",
+    "main.cdf57f43.js.map": "/TextTool/static/js/main.cdf57f43.js.map",
+    "453.77995bdc.chunk.js.map": "/TextTool/static/js/453.77995bdc.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9897f2a.js",
-    "static/js/2.7a26bdad.chunk.js",
-    "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.51db0d9b.chunk.js"
+    "static/css/main.7c34d7bc.css",
+    "static/js/main.cdf57f43.js"
   ]
 }
